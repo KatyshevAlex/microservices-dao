@@ -2,7 +2,6 @@ package com.microservices.daoservice.dao.enity;
 
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.fasterxml.jackson.annotation.JsonManagedReference;
 import com.microservices.daoservice.dao.enity.enums.RoleType;
 import lombok.Data;
 import lombok.NoArgsConstructor;
